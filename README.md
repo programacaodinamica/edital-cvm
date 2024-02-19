@@ -7,7 +7,7 @@ Cargo: Analista CVM - Ciência de Dados (Perfil 7)
 1. Língua Portuguesa (10 questões)
 2. Estrutura do Mercado de Valores Mobiliários (MVM) (10 questões)
 3. Fundamentos de Direito (10 questões)
-**4. Fluência em Dados (05 questões)**
+4. _**Fluência em Dados (05 questões)**_
    - [Fluxo do Trabalho com Dados do Zero à Prática (Escola de Dados)](https://ok.org.br/publicacoes/)
    - [What's Going On in This Graph? - New York Times Learning](https://www.nytimes.com/column/whats-going-on-in-this-graph)
    - [Quais são as etapas da Ciência de Dados de ponta-a-ponta? (Vídeo)](https://www.youtube.com/watch?time_continue=6&v=cSEVa6TzAy0)
@@ -16,7 +16,7 @@ Cargo: Analista CVM - Ciência de Dados (Perfil 7)
 6. Raciocínio-Lógico (05 questões)
 
 ## CONHECIMENTOS ESPECÍFICOS - Módulo 2
-**1. Ciência de Dados (25 questões)**
+_**1. Ciência de Dados (25 questões)**_
 
 - **Aprendizado de Máquina**
    - [Machine Learning em Python |Playlist Programação Dinâmica](https://www.youtube.com/watch?v=u8xgqvk16EA&list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q)
@@ -58,7 +58,7 @@ Cargo: Analista CVM - Ciência de Dados (Perfil 7)
 - ****4 Types of Big Data Technologies (+ Management Tools) -**** [https://www.coursera.org/articles/big-data-technologies](https://www.coursera.org/articles/big-data-technologies)
 
    
-**2. Linguagens e Banco de Dados (20 questões)**
+_**2. Linguagens e Banco de Dados (20 questões)**_
 
 - **Estrutura de Dados**
 
@@ -118,7 +118,7 @@ Cargo: Analista CVM - Ciência de Dados (Perfil 7)
     - Ebook Alura/Caelum - [https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf](https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf)
 
 - **Noções de Javascript e HTML**
-  - (Discover | Rocketseat | curso gratuito)[https://www.rocketseat.com.br/discover]
+  - [Discover | Rocketseat | curso gratuito](https://www.rocketseat.com.br/discover)
   
 - **Linguagem SQL**
     - **Curso Básico de SQL para Análise de Dados:** [https://www.youtube.com/playlist?list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6)
@@ -130,11 +130,11 @@ Cargo: Analista CVM - Ciência de Dados (Perfil 7)
     - Livro: **Sistemas de Banco de Dados -**  [https://amzn.to/3XjPyE5](https://amzn.to/3XjPyE5)
 
    
-**3. Matemática e Estatística (15 questões)**
+_**3. Matemática e Estatística (15 questões)**_
    - Disciplina UFPR - [https://www.youtube.com/watch?v=5KPIwXWizCA&list=PLQcLb-PUD9WNZnVBYDKEonioyJw3nEaOM](https://www.youtube.com/watch?v=5KPIwXWizCA&list=PLQcLb-PUD9WNZnVBYDKEonioyJw3nEaOM)
    -  [Estatística Prática para Cientistas de Dados (Livro)](https://amzn.to/3vZxeWc)
      
-**4. Gestão de Projetos (10 questões)**
+_**4. Gestão de Projetos (10 questões)**_
 
 
 
