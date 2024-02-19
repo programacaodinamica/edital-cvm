@@ -2,6 +2,7 @@
 Cargo: Analista CVM - Ciência de Dados (Perfil 7)
 
 [Sobre a CVM](https://www.gov.br/cvm/pt-br/acesso-a-informacao-cvm/institucional/sobre-a-cvm)
+
 [Edital do Concurso](https://conhecimento.fgv.br/sites/default/files/concursos/edital-1-2024-abertura-concurso-cvm-retificado-30.01.pdf)
 
 ## CONHECIMENTOS BÁSICOS - Módulo 1
