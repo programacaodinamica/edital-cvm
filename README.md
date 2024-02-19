@@ -7,24 +7,37 @@ Cargo: Analista CVM - Ciência de Dados (Perfil 7)
 1. Língua Portuguesa (10 questões)
 2. Estrutura do Mercado de Valores Mobiliários (MVM) (10 questões)
 3. Fundamentos de Direito (10 questões)
-4. Fluência em Dados (05 questões)
-5. Raciocínio-Lógico (05 questões)
+**4. Fluência em Dados (05 questões)**
+   - [Fluxo do Trabalho com Dados do Zero à Prática (Escola de Dados)](https://ok.org.br/publicacoes/)
+   - [What's Going On in This Graph? - New York Times Learning](https://www.nytimes.com/column/whats-going-on-in-this-graph)
+   - [Quais são as etapas da Ciência de Dados de ponta-a-ponta? (Vídeo)](https://www.youtube.com/watch?time_continue=6&v=cSEVa6TzAy0)
+   - [Introduction to Computational Thinking](https://computationalthinking.mit.edu/Spring21/)
+
+6. Raciocínio-Lógico (05 questões)
 
 ## CONHECIMENTOS ESPECÍFICOS - Módulo 2
 **1. Ciência de Dados (25 questões)**
 
 - **Aprendizado de Máquina**
-   - [Aprendizado de Máquina com Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q)
+   - [Machine Learning em Python |Playlist Programação Dinâmica](https://www.youtube.com/watch?v=u8xgqvk16EA&list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q)
    - [Princípios de Modelagem Preditiva por André Lima (Artigo)](https://andlima.github.io/principios-preditiva)
    - [Curso intensivo de Machine Learning - Google (Gratuito)](https://developers.google.com/machine-learning/crash-course?hl=pt-br)
+   - [Animation on How the Machine Learns a Linear Regression](https://youtu.be/Ht3rYS-JilE)
+   -  [MLU-EXPLAIN - Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
    - Livros:
     - Mãos à obra: aprendizado de máquina com Scikit-Learn: [https://amzn.to/3RU3Jyx](https://amzn.to/3RU3Jyx)
     - Data Mining and Machine Learning (versão online gratuita): [https://dataminingbook.info/book_html/](https://dataminingbook.info/book_html/)
     - Python Data Science Handbook (versão online gratuita) - [https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html)
  
 - **Aprendizado Profundo (Deep Learning)**
+  - [Practical Deep Learning - Fast AI Course](https://course.fast.ai/)
   - [Introdução a Redes Neurais e Deep Learning |  Didática Tech](https://www.youtube.com/watch?v=Z2SGE3_2Grg&pp=ygUiZGVlcCBsZWFybmluZyBwcm9ncmFtYWNhbyBkaW5hbWljYQ%3D%3D)
   - Mãos à obra: aprendizado de máquina com Scikit-Learn e TensorFlow: [https://amzn.to/3RU3Jyx](https://amzn.to/3RU3Jyx)
+  - Se você tem maturidade matemática e busca algo mais avançado, por exemplo, para entender deep learning, recomendamos este outro [livro especifico para redes neurais](https://www.deeplearningbook.org/), que dedica 4 capítulos à revisão de fundamentos matemáticos.
+ 
+- **Aprendizado por Reforço**
+    - [Reinforcement Learning, An introduction (Livro)](http://incompleteideas.net/book/RLbook2020.pdf)
+    -    [A Beginner's Guide to Deep Reinforcement Learning (Artigo)](https://wiki.pathmind.com/deep-reinforcement-learning)
 
 - **Noções de Visão Computacional**
   - [O que é VISÃO COMPUTACIONAL? Conceito e Aplicações](https://youtu.be/RSkbjZZb-1c?si=n6ICEVlGVXTLcTVD)
@@ -36,7 +49,10 @@ Cargo: Analista CVM - Ciência de Dados (Perfil 7)
   
 - **Processamento de Linguagem Natural**
   - Curso ICMC-USP: [Python para Processamento de Linguagem Natural | ICMC](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5ekKsYymdXMsY3W0MoVcRg)
+  - [CS224n: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+  - [Hugging Face Course](https://huggingface.co/course/chapter1/1?fw=pt)
   - Livro (gratuito): [Speech and Language Processing (3rd ed. draft) Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
+
  
 - O que é BigData? - [https://www.oracle.com/br/big-data/what-is-big-data/](https://www.oracle.com/br/big-data/what-is-big-data/)
 - ****4 Types of Big Data Technologies (+ Management Tools) -**** [https://www.coursera.org/articles/big-data-technologies](https://www.coursera.org/articles/big-data-technologies)
@@ -105,7 +121,7 @@ Cargo: Analista CVM - Ciência de Dados (Perfil 7)
   - (Discover | Rocketseat | curso gratuito)[https://www.rocketseat.com.br/discover]
   
 - **Linguagem SQL**
-    - ****Curso Básico de SQL para Análise de Dados -**** [https://www.youtube.com/playlist?list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6)
+    - **Curso Básico de SQL para Análise de Dados:** [https://www.youtube.com/playlist?list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6)
     - Livros
         - **SQL - Guia Prático: um Guia Para o uso de SQL -** [https://amzn.to/40MgPlF](https://amzn.to/40MgPlF)
         - **Introdução à Linguagem SQL -** [https://amzn.to/3E0E1Ty](https://amzn.to/3E0E1Ty)
@@ -116,6 +132,7 @@ Cargo: Analista CVM - Ciência de Dados (Perfil 7)
    
 **3. Matemática e Estatística (15 questões)**
    - Disciplina UFPR - [https://www.youtube.com/watch?v=5KPIwXWizCA&list=PLQcLb-PUD9WNZnVBYDKEonioyJw3nEaOM](https://www.youtube.com/watch?v=5KPIwXWizCA&list=PLQcLb-PUD9WNZnVBYDKEonioyJw3nEaOM)
+   -  [Estatística Prática para Cientistas de Dados (Livro)](https://amzn.to/3vZxeWc)
      
 **4. Gestão de Projetos (10 questões)**
 
