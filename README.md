@@ -102,7 +102,7 @@ Cargo: Analista CVM - Ciência de Dados (Perfil 7)
     - Ebook Alura/Caelum - [https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf](https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf)
 
 - **Noções de Javascript e HTML**
-  - (curso gratuito)
+  - (Discover | Rocketseat | curso gratuito)[https://www.rocketseat.com.br/discover]
   
 - **Linguagem SQL**
     - ****Curso Básico de SQL para Análise de Dados -**** [https://www.youtube.com/playlist?list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6)
