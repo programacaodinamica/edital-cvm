@@ -1,6 +1,7 @@
 # Materiais para Concurso CVM
 Cargo: Analista CVM - Ciência de Dados (Perfil 7)
 
+[Sobre a CVM](https://www.gov.br/cvm/pt-br/acesso-a-informacao-cvm/institucional/sobre-a-cvm)
 [Edital do Concurso](https://conhecimento.fgv.br/sites/default/files/concursos/edital-1-2024-abertura-concurso-cvm-retificado-30.01.pdf)
 
 ## CONHECIMENTOS BÁSICOS - Módulo 1
@@ -8,10 +9,8 @@ Cargo: Analista CVM - Ciência de Dados (Perfil 7)
 2. Estrutura do Mercado de Valores Mobiliários (MVM) (10 questões)
 3. Fundamentos de Direito (10 questões)
 4. _**Fluência em Dados (05 questões)**_
+   - [Fluência em Dados - Concurso CVM | Playlist Programação Dinâmica](https://www.youtube.com/watch?v=P6uiLQ6F7Mo&list=PL5TJqBvpXQv5kIQx831-8fQR7LADP5q5o)
    - [Fluxo do Trabalho com Dados do Zero à Prática (Escola de Dados)](https://ok.org.br/publicacoes/)
-   - [What's Going On in This Graph? - New York Times Learning](https://www.nytimes.com/column/whats-going-on-in-this-graph)
-   - [Quais são as etapas da Ciência de Dados de ponta-a-ponta? (Vídeo)](https://www.youtube.com/watch?time_continue=6&v=cSEVa6TzAy0)
-   - [Introduction to Computational Thinking](https://computationalthinking.mit.edu/Spring21/)
 
 6. Raciocínio-Lógico (05 questões)
 
