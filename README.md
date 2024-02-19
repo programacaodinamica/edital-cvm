@@ -25,19 +25,18 @@ _**1. Ciência de Dados (25 questões)**_
    - [Animation on How the Machine Learns a Linear Regression](https://youtu.be/Ht3rYS-JilE)
    -  [MLU-EXPLAIN - Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
    - Livros:
-    - Mãos à obra: aprendizado de máquina com Scikit-Learn: [https://amzn.to/3RU3Jyx](https://amzn.to/3RU3Jyx)
-    - Data Mining and Machine Learning (versão online gratuita): [https://dataminingbook.info/book_html/](https://dataminingbook.info/book_html/)
-    - Python Data Science Handbook (versão online gratuita) - [https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html)
+      - Mãos à obra: aprendizado de máquina com Scikit-Learn: [https://amzn.to/3RU3Jyx](https://amzn.to/3RU3Jyx)
+      - Data Mining and Machine Learning (versão online gratuita): [https://dataminingbook.info/book_html/](https://dataminingbook.info/book_html/)
+      - Python Data Science Handbook (versão online gratuita) - [https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html](https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html)
  
 - **Aprendizado Profundo (Deep Learning)**
   - [Practical Deep Learning - Fast AI Course](https://course.fast.ai/)
   - [Introdução a Redes Neurais e Deep Learning |  Didática Tech](https://www.youtube.com/watch?v=Z2SGE3_2Grg&pp=ygUiZGVlcCBsZWFybmluZyBwcm9ncmFtYWNhbyBkaW5hbWljYQ%3D%3D)
-  - Mãos à obra: aprendizado de máquina com Scikit-Learn e TensorFlow: [https://amzn.to/3RU3Jyx](https://amzn.to/3RU3Jyx)
   - Se você tem maturidade matemática e busca algo mais avançado, por exemplo, para entender deep learning, recomendamos este outro [livro especifico para redes neurais](https://www.deeplearningbook.org/), que dedica 4 capítulos à revisão de fundamentos matemáticos.
  
 - **Aprendizado por Reforço**
     - [Reinforcement Learning, An introduction (Livro)](http://incompleteideas.net/book/RLbook2020.pdf)
-    -    [A Beginner's Guide to Deep Reinforcement Learning (Artigo)](https://wiki.pathmind.com/deep-reinforcement-learning)
+    - [A Beginner's Guide to Deep Reinforcement Learning (Artigo)](https://wiki.pathmind.com/deep-reinforcement-learning)
 
 - **Noções de Visão Computacional**
   - [O que é VISÃO COMPUTACIONAL? Conceito e Aplicações](https://youtu.be/RSkbjZZb-1c?si=n6ICEVlGVXTLcTVD)
@@ -54,17 +53,16 @@ _**1. Ciência de Dados (25 questões)**_
   - Livro (gratuito): [Speech and Language Processing (3rd ed. draft) Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
 
  
-- O que é BigData? - [https://www.oracle.com/br/big-data/what-is-big-data/](https://www.oracle.com/br/big-data/what-is-big-data/)
-- ****4 Types of Big Data Technologies (+ Management Tools) -**** [https://www.coursera.org/articles/big-data-technologies](https://www.coursera.org/articles/big-data-technologies)
+- **BigData**
+   - O que é BigData? - [https://www.oracle.com/br/big-data/what-is-big-data/](https://www.oracle.com/br/big-data/what-is-big-data/)
+   - 4 Types of Big Data Technologies (+ Management Tools) - [https://www.coursera.org/articles/big-data-technologies](https://www.coursera.org/articles/big-data-technologies)
 
    
 _**2. Linguagens e Banco de Dados (20 questões)**_
 
 - **Estrutura de Dados**
-
-  [Estrutura de Dados | Playlist Programação Dinâmica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5Bb71AE5Cd_kB5rNsfU4Cp)
-
-- Livro: **Estruturas de Dados e Seus Algoritmos -** [https://amzn.to/3xeHV7p](https://amzn.to/3xeHV7p)
+   - [Estrutura de Dados | Playlist Programação Dinâmica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5Bb71AE5Cd_kB5rNsfU4Cp)
+   - Estruturas de Dados e Seus Algoritmos (Livro): [https://amzn.to/3xeHV7p](https://amzn.to/3xeHV7p)
   
 - **Análise e Projeto de Algoritmos**
 
